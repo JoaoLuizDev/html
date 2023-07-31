@@ -1,6 +1,6 @@
 <h1>Criar seu Próprio Jogo da Velha com HTML e Javascript</h1>
 
-* <b>link:</b> 
+* <b>link: https://www.dio.me/</b> 
   
 * <b>descrição:</b> conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas
   utilizando suas funções básicas e uma pouco de lógica.
