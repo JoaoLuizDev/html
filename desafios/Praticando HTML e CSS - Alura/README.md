@@ -1,6 +1,5 @@
 # Praticando HTML e CSS - Alura
 
-link: [Curso de HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css)
 
 <hr>
   
@@ -20,6 +19,9 @@ link: [Curso de HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/cou
 * Figma 
 * Git
 * VSCode 
+
+## Sobre o curso
+Link para o curso: [Curso de HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css)
 
 <b>Instrutora:</b> Mônica Mazzochi Hillman   
 <b>Link:</b> https://github.com/MonicaHillman
