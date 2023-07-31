@@ -1,6 +1,7 @@
 # Praticando HTML e CSS - Alura
 
 link: [Curso de HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css)
+
 <hr>
   
 ## Objetivos:
